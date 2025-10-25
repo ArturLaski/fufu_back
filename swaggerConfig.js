@@ -15,7 +15,7 @@ const options = {
     },
     servers: [
       {
-        url: 'https://fufu-back.onrender.com/',
+        url: 'https://fufu-back.onrender.com/', 
       },
     ],
   },
